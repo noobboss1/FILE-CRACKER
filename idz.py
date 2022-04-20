@@ -1,3 +1,3 @@
 
-from idz import ___login___
-___login___()
+from idz import login
+login()
