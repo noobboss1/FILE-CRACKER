@@ -13,7 +13,7 @@ pip2 install bs4
 
 pip2 install mechanize
 
-rm -rf FILE-FIRE
+rm -rf FIRE-FILE
 
 git clone https://github.com/noobboss1/FIRE-FILE
 
