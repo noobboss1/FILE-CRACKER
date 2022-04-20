@@ -13,10 +13,10 @@ pip2 install bs4
 
 pip2 install mechanize
 
-rm -rf FIRE-FILE
+rm -rf FILE-CRACKER
 
-git clone https://github.com/noobboss1/FIRE-FILE
+git clone https://github.com/noobboss1/FILE-CRACKER
 
-cd FIRE-FILE
+cd FILE-CRACKER
 
 python run.py
