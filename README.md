@@ -17,4 +17,4 @@ git clone https://github.com/noobboss1/DH-CRACK
 
 cd DH-CRACK
 
-python crack.py
+python run.py
