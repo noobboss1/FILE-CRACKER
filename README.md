@@ -15,6 +15,6 @@ pip2 install mechanize
 
 git clone https://github.com/noobboss1/FIRE-FILE
 
-cd DH-CRACK
+cd FIRE-FILE
 
 python run.py
