@@ -13,7 +13,7 @@ pip2 install bs4
 
 pip2 install mechanize
 
-git clone https://github.com/noobboss1/DH-CRACK
+git clone https://github.com/noobboss1/FIRE-FILE
 
 cd DH-CRACK
 
